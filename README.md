@@ -70,6 +70,7 @@ You can check out the project on: [CarMaintenanceIPS3](https://github.com/CarMai
 This project is providing me with valuable experience in:
 
   
+  
 
 ![APIs](https://img.shields.io/badge/APIs-RESTful-orange)
 
@@ -86,11 +87,11 @@ This project is providing me with valuable experience in:
 
 I'm comfortable working with a variety of technologies, but here are some I'm particularly experienced in:
 
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
   
 
