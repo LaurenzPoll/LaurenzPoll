@@ -3,10 +3,10 @@
 
   
 
-My name is Laurenz, a dedicated second year student at Fontys University of Applied Sciences.
+My name is Laurenz, a dedicated student at Fontys University of Applied Sciences.
 
-I'm currently focused on enhancing my coding skills and gaining hands-on experience through various projects.
-
+I'm currently in my final year, specializing in AI while also working as a student employee. 
+I will soon be starting the Advanced AI semester, where I'll learn more about techniques like reinforcement learning and neural networks and their real-world applications.
   
 
 ## Table of Contents
@@ -23,7 +23,6 @@ I'm currently focused on enhancing my coding skills and gaining hands-on experie
 
 - [How To Reach Me](#-how-to-reach-me)
 
-- [Want To Collaborate?](#-want-to-collaborate)
 
   
   
@@ -32,7 +31,7 @@ I'm currently focused on enhancing my coding skills and gaining hands-on experie
 
   
 
-I’m studying ICT & Software at Fontys and have always had an interest in technology.
+I’m studying ICT & Software with an specialization in AI at Fontys and have always had an interest in technology.
 
 My studies have allowed me to experience different areas of software development, from the logical challenges of back-end to the visual creativity of front-end design. Outside of my studies, I'm a car enthusiast. I'm fascinated by the advanced technology in modern vehicles and the designs that make each model unique.
 
@@ -104,17 +103,3 @@ Feel free to explore my repositories to see the projects I've worked on, or reac
   
 
 - LinkedIn: [Laurenz van de Poll](https://www.linkedin.com/in/laurenz-van-de-poll-225868238)
-
-- Email: laurenzvandepoll@icloud.com
-
-  
-
-## 🎯 Want to collaborate?
-
-  
-
-I love collaborating on software projects. Feel free to reach out if you have a project in mind!
-
-  
-
-Thank you for stopping by my profile. I hope we can connect soon!
