@@ -14,16 +14,8 @@ Fontys University of Applied Sciences, Eindhoven
 ## 📚 About Me
 Driven by curiosity for how intelligent systems work, I specialize in **AI engineering**—with a focus on NLP and applied machine learning. I have a track record of building software, leading international collaborations and quickly adapting to emerging technologies.
 
-
 I chose to specialize in **AI** because I wanted to learn the **magic** behind **the predictions of a machine**, this can often feel like wizardry.
 
-During my studies, I have worked on projects in the following areas:
-- **Asynchronous programming** to optimize speed of a program.
-- **Machine learning fundamentals**, including AI/ML project methodology, data understanding/preparation and statistical models.
-- **Web development in Laravel**, building a functional website.
-- **International collaboration as a Product Owner**, leading a project between  to develop a **quickscan tool for the Digital Product Passport**.
-
-My goal is to **continuously learn, optimize, and innovate** in everything I build.
 
 ## 🧑‍💻 What I Do
 
