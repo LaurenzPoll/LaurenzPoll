@@ -1,21 +1,19 @@
-# Hello, world! 👋
+# Hi, I am Laurenz! 👋
 
-My name is Laurenz, a dedicated student at Fontys University of Applied Sciences.
-
-I'm in my final year of HBO-ICT, specializing in AI, and working as a student employee on building a Large Language Model(LLM) framework.
-After completing the Smart Supply Chain semester, I am now starting into **Advanced AI**, exploring reinforcement learning and neural networks.
-
+**Final-year HBO-ICT student (Software Development & AI)**  
+Fontys University of Applied Sciences, Eindhoven
 
 ## Table of Contents
 
 - [About Me](#-about-me)
-- [What Drives Me](#-what-drives-me)
-- [Current Project](#-current-project)
-- [Skills & Experience](#-skills--experience)
-- [How To Reach Me](#-how-to-reach-me)
+- [What I do](#-what-i-do)
+- [Skills](#-skills)
+- [Let’s Connect](#-lets-connect)
 
 
 ## 📚 About Me
+Driven by curiosity for how intelligent systems work, I specialize in **AI engineering**—with a focus on NLP and applied machine learning. I have a track record of building software, leading international collaborations and quickly adapting to emerging technologies.
+
 
 I chose to specialize in **AI** because I wanted to learn the **magic** behind **the predictions of a machine**, this can often feel like wizardry.
 
@@ -23,35 +21,39 @@ During my studies, I have worked on projects in the following areas:
 - **Asynchronous programming** to optimize speed of a program.
 - **Machine learning fundamentals**, including AI/ML project methodology, data understanding/preparation and statistical models.
 - **Web development in Laravel**, building a functional website.
-- **International collaboration as a Product Owner**, leading a project between **Fontys University** and **Zhengzhou University of Light Industry** to develop a **quickscan tool for the Digital Product Passport**.
+- **International collaboration as a Product Owner**, leading a project between  to develop a **quickscan tool for the Digital Product Passport**.
 
 My goal is to **continuously learn, optimize, and innovate** in everything I build.
 
+## 🧑‍💻 What I Do
 
-## 🛠️ Current Project
+- **Building LLM frameworks** as a student employee, bridging theory and production.
+- **Exploring advanced AI** topics: neural networks, RL, deep learning, and generative AI.
+- **Past projects:**
+  - **Art-classifier:** Built an ML model for artwork categorization.
+  - **RL-exercise-FrozenLake:** Implemented reinforcement learning using Gymnasium.
+  - **Knowledge Graph Agent:** Developed an interactive Streamlit app to build/query knowledge graphs from large document sets.
+  - **Fundamental Analysis Rating:** Created a stock recommendation system.
+  - **Digital Product Passport:** International project lead: digital product passport tool (**Fontys University** and **Zhengzhou University of Light Industry**)
+  - **Laravel web development (full stack)**
 
-Soon starting a project focussed on ML
+## 💡 Skills
+
+| Language/Framework | Level        |  
+|--------------------|-------------|  
+| Python, Pandas     | Advanced    |  
+| C#, .NET           | Intermediate|  
+| PHP, Laravel       | Intermediate|  
+| Machine Learning   | Intermediate|  
+| Generative AI      | Intermediate|  
+| Asynchronous Programming | Strong|
+
+> See my repositories for code samples and technical writeups.
 
 
-## 🧰 Skills & Experience
+## 📫 Let’s Connect
 
-I'm comfortable working with a variety of technologies, but here are some I'm particularly experienced in:
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=artstation&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/laurenz-van-de-poll-225868238)
 
 
-## 📫 How To Reach Me
-
-- LinkedIn: [Laurenz van de Poll](https://www.linkedin.com/in/laurenz-van-de-poll-225868238)
-
-Take a look at my repositories to see my work, and feel free to reach out if you're interested in collaborating!
+*Open to collaborations, internships, and AI/software engineering roles. I value clear communication, clean code, and practical impact.*
