@@ -48,4 +48,4 @@ I chose to specialize in **AI** because I wanted to learn the **magic** behind *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/laurenz-van-de-poll-225868238)
 
 
-*Open to collaborations, internships, and AI/software engineering roles. I value clear communication, clean code, and practical impact.*
+*Open to collaborations and AI/software engineering roles. I value clear communication, clean code, and practical impact.*
